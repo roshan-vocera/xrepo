@@ -25,5 +25,6 @@ jobs:
         uses: ncipollo/release-action@v1
         with:
           tag: v${{ env.REVISION }}
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
           bodyFile: "body.md"
           skipIfReleaseExists: true
