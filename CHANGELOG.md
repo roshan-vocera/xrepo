@@ -1,3 +1,9 @@
+## 0.1.0 (2025-04-09)
+
+### Feat
+
+- **is_active-disabled**: it is imprvoing perfomance
+
 ## 0.0.4 (2025-04-08)
 
 ### Fix
